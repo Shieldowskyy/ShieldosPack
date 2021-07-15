@@ -12,7 +12,7 @@ Aby zainstalować paczkę, należy najpierw pobrać [Fabrica](https://fabricmc.n
 
 HeliosPack ma pełno przydatnych funkcji, które znajdziesz poniżej:
 
-- Ogromna wydajność (Sodium) [Sprawdź porównanie wydajności z Optifinem](https://thecatapi.com/)
+- Ogromna wydajność (Sodium) [Sprawdź porównanie wydajności z Optifinem](https://github.com/Helios3991/heliospack/blob/main/HeliosPack-vs-Optifine.md)
 - Automatyczne zmniejszenie limitu fpsów do 1 gdy korzystasz z innej aplikacji (Dynamic-FPS)
 - Możliwość robienia screenshotów w większej rozdzielczości (F9) (FabriShot)
 - Wydajny silnik shaderów kompatybilny z dużą częścią shaderów na Optifine (Iris)
