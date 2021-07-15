@@ -1,6 +1,3 @@
-# HeliosPack
-Paczka modów na Fabrica znacząco zwiększająca wydajność.
-
 # Czym jest HeliosPack?
 
 HeliosPack to paczka modów na Fabrica, która w ogromnym stopniu zwiększa wydajność gry. Dodaje ona także różne ułatwienia, np. możliwość dołączania do serwerów od wersji 1.8 w górę bez potrzeby restartowania Minecrafta. Paczka będzie aktualizowana do nowych wersji Minecrafta.
